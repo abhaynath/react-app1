@@ -1,6 +1,6 @@
 {
-  "homepage": "https://abhaynath/github.io/react-app1",
   "name": "app1",
+  "homepage": "react-app1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,6 +15,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
+    "typeface-roboto": "0.0.75",
     "typescript": "~3.7.2"
   },
   "scripts": {

@@ -1,0 +1,14 @@
+.card {
+  background: white;
+  color: rgb(48, 48, 48);
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.card .title {
+  font-weight: bold;
+}
+.card .message {
+  font-size: 13px;
+}
