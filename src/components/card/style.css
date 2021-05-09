@@ -12,3 +12,6 @@
 .card .message {
   font-size: 13px;
 }
+.card .btns {
+  padding: 10px;
+}
